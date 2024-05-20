@@ -83,8 +83,7 @@ author:
   name             : "TANG Ruijie"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Medical Robotics"
-  location         : "Room 424, Ho Sin-Hang Engineering Building, 
-                        CUHK, Shatin, N.T., Hong Kong"
+  location         : "Room 424, Ho Sin-Hang Engineering Building,"  "/n" " CUHK, Shatin, N.T., Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4-oCmcQAAAAJ&hl=zh-CN"
