@@ -6,7 +6,7 @@ excerpt:
 date: 2024-09-01
 venue: 'IEEE Sensors Journal'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/ruijie777/ruijie777.github.io/tree/master/files/paper1.pdf'
 citation: 
 ---
 
