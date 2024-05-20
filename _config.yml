@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TANG, Ruijie's Personal Homepag"
+title                    : "TANG, Ruijie's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "TANG Ruijie"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Medical Robotics"
-  location         : "Room 424, Ho Sin-Hang Engineering Building, CUHK, Shatin, Hong Kong"
+  location         : "Room 424, Ho Sin-Hang Engineering Building, CUHK, Shatin," "/n"  "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4-oCmcQAAAAJ&hl=zh-CN"
