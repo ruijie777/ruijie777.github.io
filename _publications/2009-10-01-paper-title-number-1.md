@@ -6,7 +6,7 @@ excerpt:
 date: 2024-09-01
 venue: 'IEEE Sensors Journal'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://github.com/ruijie777/ruijie777.github.io/tree/master/files/paper1.pdf'
+paperurl: 'https://github.com/ruijie777/ruijie777.github.io/tree/master/files/Data-Driven_3-D_Tactile_Cues_With_Intermediate_Soft_Interfaces_Toward_Training_Needle_Insertions.pdf'
 citation: 
 ---
 
